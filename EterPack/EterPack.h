@@ -2,8 +2,8 @@
 #define __INC_ETERPACKLIB_ETERPACK_H__
 
 #include <list>
-#include <boost_client/unordered_map.hpp>
-#include <boost_client/shared_array.hpp>
+#include <boost/unordered_map.hpp>
+#include <boost/shared_array.hpp>
 
 #include "../EterBase/MappedFile.h"
 

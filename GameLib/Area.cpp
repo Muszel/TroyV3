@@ -10,7 +10,7 @@
 #include "PropertyManager.h"
 #include "Property.h"
 
-#include <boost_client/algorithm/string.hpp>
+#include <boost/algorithm/string.hpp>
 
 CDynamicPool<CArea::TObjectInstance>	CArea::ms_ObjectInstancePool;
 CDynamicPool<CAttributeInstance>		CArea::ms_AttributeInstancePool;
